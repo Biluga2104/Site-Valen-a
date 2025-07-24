@@ -1,0 +1,57 @@
+Jul 24 2025 12:52:37
+{"type":32,"message":"PHP Startup: Unable to load dynamic library 'diseval.so' (tried: \/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so (\/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so: cannot open shared object file: No such file or directory), \/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so.so (\/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so.so: cannot open shared object file: No such file or directory))","file":"Unknown","line":0}
+
+Jul 24 2025 12:52:39
+{"type":2,"message":"unlink(\/home\/valencaq\/public_html\/wp-content\/cache\/db\/singletables\/\/d6b\/d01\/d6bd018b6f355de1dfa0f1f133cf8b0c.php): No such file or directory","file":"\/home\/valencaq\/public_html\/wp-content\/plugins\/w3-total-cache\/Util_File.php","line":180}
+
+Jul 24 2025 12:52:40
+{"type":32,"message":"PHP Startup: Unable to load dynamic library 'diseval.so' (tried: \/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so (\/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so: cannot open shared object file: No such file or directory), \/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so.so (\/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so.so: cannot open shared object file: No such file or directory))","file":"Unknown","line":0}
+
+Jul 24 2025 12:52:41
+{"type":32,"message":"PHP Startup: Unable to load dynamic library 'diseval.so' (tried: \/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so (\/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so: cannot open shared object file: No such file or directory), \/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so.so (\/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so.so: cannot open shared object file: No such file or directory))","file":"Unknown","line":0}
+
+Jul 24 2025 12:52:42
+{"type":32,"message":"PHP Startup: Unable to load dynamic library 'diseval.so' (tried: \/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so (\/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so: cannot open shared object file: No such file or directory), \/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so.so (\/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so.so: cannot open shared object file: No such file or directory))","file":"Unknown","line":0}
+
+Jul 24 2025 12:52:43
+{"type":32,"message":"PHP Startup: Unable to load dynamic library 'diseval.so' (tried: \/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so (\/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so: cannot open shared object file: No such file or directory), \/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so.so (\/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so.so: cannot open shared object file: No such file or directory))","file":"Unknown","line":0}
+
+Jul 24 2025 12:52:44
+{"type":32,"message":"PHP Startup: Unable to load dynamic library 'diseval.so' (tried: \/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so (\/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so: cannot open shared object file: No such file or directory), \/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so.so (\/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so.so: cannot open shared object file: No such file or directory))","file":"Unknown","line":0}
+
+Jul 24 2025 12:52:49
+{"type":32,"message":"PHP Startup: Unable to load dynamic library 'diseval.so' (tried: \/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so (\/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so: cannot open shared object file: No such file or directory), \/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so.so (\/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so.so: cannot open shared object file: No such file or directory))","file":"Unknown","line":0}
+
+Jul 24 2025 12:52:50
+{"type":32,"message":"PHP Startup: Unable to load dynamic library 'diseval.so' (tried: \/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so (\/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so: cannot open shared object file: No such file or directory), \/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so.so (\/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so.so: cannot open shared object file: No such file or directory))","file":"Unknown","line":0}
+
+Jul 24 2025 12:52:51
+{"type":32,"message":"PHP Startup: Unable to load dynamic library 'diseval.so' (tried: \/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so (\/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so: cannot open shared object file: No such file or directory), \/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so.so (\/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so.so: cannot open shared object file: No such file or directory))","file":"Unknown","line":0}
+
+Jul 24 2025 12:52:54
+{"type":32,"message":"PHP Startup: Unable to load dynamic library 'diseval.so' (tried: \/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so (\/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so: cannot open shared object file: No such file or directory), \/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so.so (\/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so.so: cannot open shared object file: No such file or directory))","file":"Unknown","line":0}
+
+Jul 24 2025 12:53:00
+{"type":32,"message":"PHP Startup: Unable to load dynamic library 'diseval.so' (tried: \/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so (\/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so: cannot open shared object file: No such file or directory), \/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so.so (\/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so.so: cannot open shared object file: No such file or directory))","file":"Unknown","line":0}
+
+Jul 24 2025 12:53:11
+{"type":32,"message":"PHP Startup: Unable to load dynamic library 'diseval.so' (tried: \/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so (\/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so: cannot open shared object file: No such file or directory), \/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so.so (\/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so.so: cannot open shared object file: No such file or directory))","file":"Unknown","line":0}
+
+Jul 24 2025 12:53:18
+{"type":32,"message":"PHP Startup: Unable to load dynamic library 'diseval.so' (tried: \/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so (\/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so: cannot open shared object file: No such file or directory), \/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so.so (\/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so.so: cannot open shared object file: No such file or directory))","file":"Unknown","line":0}
+
+Jul 24 2025 12:53:20
+{"type":32,"message":"PHP Startup: Unable to load dynamic library 'diseval.so' (tried: \/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so (\/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so: cannot open shared object file: No such file or directory), \/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so.so (\/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so.so: cannot open shared object file: No such file or directory))","file":"Unknown","line":0}
+
+Jul 24 2025 12:53:31
+{"type":32,"message":"PHP Startup: Unable to load dynamic library 'diseval.so' (tried: \/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so (\/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so: cannot open shared object file: No such file or directory), \/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so.so (\/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so.so: cannot open shared object file: No such file or directory))","file":"Unknown","line":0}
+
+Jul 24 2025 12:53:32
+{"type":32,"message":"PHP Startup: Unable to load dynamic library 'diseval.so' (tried: \/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so (\/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so: cannot open shared object file: No such file or directory), \/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so.so (\/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so.so: cannot open shared object file: No such file or directory))","file":"Unknown","line":0}
+
+Jul 24 2025 12:53:33
+{"type":32,"message":"PHP Startup: Unable to load dynamic library 'diseval.so' (tried: \/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so (\/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so: cannot open shared object file: No such file or directory), \/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so.so (\/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so.so: cannot open shared object file: No such file or directory))","file":"Unknown","line":0}
+
+Jul 24 2025 12:53:34
+{"type":32,"message":"PHP Startup: Unable to load dynamic library 'diseval.so' (tried: \/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so (\/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so: cannot open shared object file: No such file or directory), \/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so.so (\/opt\/alt\/php74\/usr\/lib64\/php\/modules\/diseval.so.so: cannot open shared object file: No such file or directory))","file":"Unknown","line":0}
+
